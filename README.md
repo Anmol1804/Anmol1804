@@ -1,5 +1,6 @@
 <h1 align="center">こんにちは👋, I'm Anmol</h1>
-<h3 align="center">Passionate Problem Solver from India. Currently living and working in Tokyo,japan. Also learning ML and DS.</h3>
+<h3 align="center">Problem Solver from India. </h3>
+<h2>Currently living and working in Tokyo,japan. Also learning ML and DS.</h2>
 
 <!-- <p align="left"> <a href="https://twitter.com/anmolzon" target="blank"><img src="https://img.shields.io/twitter/follow/anmolzon?logo=twitter&style=for-the-badge" alt="anmolzon" /></a> </p> -->
 
