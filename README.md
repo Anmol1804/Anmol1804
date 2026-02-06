@@ -1,7 +1,7 @@
 <h1 align="center">こんにちは👋, I'm Anmol</h1>
 <h3 align="center">Passionate Developer from India. Currently learning ML and DS.</h3>
 
-<p align="left"> <a href="https://twitter.com/anmolzon" target="blank"><img src="https://img.shields.io/twitter/follow/anmolzon?logo=twitter&style=for-the-badge" alt="anmolzon" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/anmolzon" target="blank"><img src="https://img.shields.io/twitter/follow/anmolzon?logo=twitter&style=for-the-badge" alt="anmolzon" /></a> </p> -->
 
 <!--
 <h3 align="left">Connect with me:</h3>
